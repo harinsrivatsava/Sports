@@ -1,0 +1,8 @@
+bats
+ball
+pads
+helment
+guard
+thigh pad
+gloves
+caps
